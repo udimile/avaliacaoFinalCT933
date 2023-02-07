@@ -1,8 +1,8 @@
 ### Avaliação final Coding Tank do Santander Coders na trilha Kotlin da Let's Code form Ada em parceria com o Banco Santander.
 
-##Sendo os exercicios. 
+## Sendo os exercicios. 
 
-#Exercicio 1:
+# Exercicio 1:
 Faça um programa que imprima os números de 1 a 100, porém com as seguintes condições:
 
 Caso o número for divisível por 3 imprimir Fizz no lugar do número;
@@ -27,7 +27,7 @@ Fizz
 FizzBuzz
 ...
 
-#Exercicio 2:
+# Exercicio 2:
 
 Criar um programa que pergunte para o usuário um mês e retorne a quantidade de dias que o mês possui.
 
@@ -41,7 +41,7 @@ Informe o mês:
 Fevereiro
 Fevereiro possui 28 dias.
 
-#Exercicio 3: 
+# Exercicio 3: 
 
 A sequência de Fibonacci é definida da seguinte maneira:
 
@@ -64,7 +64,7 @@ Qual a quantidade de termos que deseja exibir da sequência de Fibonacci?
 12
 1 1 2 3 5 8 13 21 34 55 89 144
 
-#Exercicio 4: 
+# Exercicio 4: 
 
 A tabela SAC é uma alternativa à tabela Price. Ela também é utilizada para cálculo de prestações de empréstimos, como financiamentos imobiliários.
 
@@ -104,7 +104,7 @@ Parcela 11 | Juros: R$ 75,00 | Prestação: R$ 2575,00 | Saldo devedor: R$ 2500,
 Parcela 12 | Juros: R$ 37,50 | Prestação: R$ 2537,50 | Saldo devedor: R$ 0,00
 Total: Prestação R$ 32925,00, Juros R$ 2925,00, Amortização R$ 30000,00
 
-#Exercicio 5:
+# Exercicio 5:
 
 Criar um programa para fazer conversões de temperaturas, o programa deve:
 
